@@ -1,6 +1,6 @@
 # Right Click Enabler
 
-This Chrome extension allows users to enable right-click context menus on websites that block them. It overrides the default behavior of right-click events, providing a seamless experience for users who wish to access context menus.
+This Chromium based extension allows users to enable right-click context menus on websites that block them. It overrides the default behavior of right-click events, providing a seamless experience for users who wish to access context menus.
 
 ## Features
 
@@ -15,7 +15,7 @@ This Chrome extension allows users to enable right-click context menus on websit
    git clone https://github.com/yourusername/right-click-enabler.git
    ```
 
-2. Open Chrome and navigate to `chrome://extensions/`.
+2. Open Chrome etc. and navigate to `chrome://extensions/`.
 
 3. Enable "Developer mode" by toggling the switch in the top right corner.
 
